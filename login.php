@@ -9,7 +9,7 @@
   <meta name="viewport"
      content="width=device-width, initial-scale=1, user-scalable=yes">
      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-     <title>U of U Parking System - <?php echo strtoupper(basename(__FILE__, '.php')); ?></title>
+     <title>U of U Parking System - <?php echo ucfirst(basename(__FILE__, '.php')); ?></title>
     </head>
 <body style="background-color: #f8f9fa;">
  
